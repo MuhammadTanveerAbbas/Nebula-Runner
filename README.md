@@ -45,15 +45,6 @@ Then open **[http://localhost:3000](http://localhost:3000)** to start playing lo
 
 ---
 
-## 🧠 Tech Stack
-
-* ⚛️ **React 19**
-* 🌀 **Next.js 14**
-* 🎨 **Tailwind CSS**
-* 🧩 **TypeScript**
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License**.
