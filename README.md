@@ -1,60 +1,65 @@
-# 🚀 Nebula Runner 🌌
+<h1 align="center">Nebula Runner 🌌 Game 🎮</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+</p>
 
-[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://nextjs.org/)
-[![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
+---
 
-Welcome to **Nebula Runner**! An epic journey through the cosmos where your mission is to pilot a lone rocket through a treacherous asteroid field. This isn't just a game; it's a test of survival. With a single life, every move counts. Dodge asteroids, avoid black holes, and grab score boosters to climb the leaderboard.
+A **cosmic endless runner game** where you pilot a rocket through a dangerous asteroid field 🚀  
+Built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**, delivering fast, fluid gameplay and stunning visuals.
 
 ---
 
 ## ✨ Features
 
-- **Endless Arcade Gameplay:** Navigate through a never ending stream of obstacles.
-- **One-Hit-To-Lose:** The ultimate challenge! One collision and your run is over.
-- **Dynamic Obstacles:** Dodge asteroids of various sizes, fast moving space debris, and reality-bending black holes with gravitational pull.
-- **Score Boosters:** Collect special items to increase your score.
-- **Progressive Difficulty:** The game gets faster and more chaotic the longer you survive.
-- **Stunning Visuals:** Features a "warp speed" starfield, rock like asteroids, and a screen-shake effect on impact.
-- **Fully Responsive:** Play on any device, with mouse controls for desktop and touch controls for mobile.
+- 🌌 **Endless Arcade Gameplay**   navigate through infinite asteroid fields  
+- 💥 **One Hit To Lose**   a single collision ends your journey  
+- 🪐 **Dynamic Obstacles**   asteroids, debris, and gravity warping black holes  
+- 💫 **Score Boosters**   collect power ups to increase your score  
+- ⚡ **Progressive Difficulty**   the longer you survive, the harder it gets  
+- 🎮 **Responsive Controls**   mouse and touch support for all devices  
+- 🎨 **Cinematic Visuals**   warp speed effects and immersive animations  
 
 ---
 
-## 🎮 Getting Started
+## 🛠️ Getting Started
 
-To get a local copy up and running, follow these simple steps.
+Follow these steps to run Nebula Runner locally 👇
 
-### Prerequisites
+```bash
+# 1. Clone the repository
+git clone https://github.com/MuhammadTanveerAbbas/nebula-runner.git
+cd nebula-runner
 
-Make sure you have Node.js and npm installed on your machine.
+# 2. Install dependencies
+npm install
 
-- [npm](https://www.npmjs.com/get-npm)
-  ```sh
-  npm install npm@latest -g
-  ```
+# 3. Run the development server
+npm run dev
+````
 
-### Installation
+Then open **[http://localhost:3000](http://localhost:3000)** to start playing locally 🎮
 
-1.  Clone the repo
-    ```sh
-    git clone https://github.com/MuhammadTanveerAbbas/nebula-runner.git
-    ```
-2.  Install NPM packages
-    ```sh
-    npm install
-    ```
-3.  Run the development server
-    ```sh
-    npm run dev
-    ```
+---
+
+## 🧠 Tech Stack
+
+* ⚛️ **React 19**
+* 🌀 **Next.js 14**
+* 🎨 **Tailwind CSS**
+* 🧩 **TypeScript**
 
 ---
 
 ## 📜 License
 
-Distributed under the MIT License. See `LICENSE` for more information.
+This project is licensed under the **MIT License**.
 
 ---
 
-Made with ❤️ by [Muhammad Tanveer Abbas](https://github.com/muhammadtanveerabbas)
+<div align="center">
+  Made with ❤️ by <a href="https://github.com/muhammadtanveerabbas"><b>Muhammad Tanveer Abbas</b></a>
+</div>
